@@ -4,9 +4,9 @@
 
 **Champions**: *Seeking champions*
 
-**Authors**: *Your Name Here* (@handle)
+**Authors**: Ivan Jeremic (@ivanjeremic)
 
-**Repo**: *to be created*
+**Repo**: [init-only-classes](https://github.com/ivanjeremic/init-only-classes)
 
 ---
 
