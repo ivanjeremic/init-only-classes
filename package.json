@@ -1,0 +1,14 @@
+{
+  "name": "init-only-classes-proposal",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./polyfill/index.js"
+  },
+  "scripts": {
+    "example:basic": "node examples/basic.js",
+    "example:async": "node examples/async.js",
+    "test": "node tests/todo.md || true"
+  }
+}
